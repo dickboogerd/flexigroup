@@ -1,0 +1,40 @@
+nl:
+  spree:
+    nav_bar:
+      show_user_menu: "Account"
+      show_search: "Zoeken"
+      my_account: "Mijn Account"
+      my_orders: "Bestellingen"
+      log_out: "Afmelden"
+    add_store: "Nieuwe winkel"
+    stores: "Winkels"
+    log_in_to_continue: "Log in om verder te gaan"
+    sign_up: "Registeren"
+    log_in: "inloggen"
+    dont_have_account: "Nog geen account?"
+    required: "Verplicht"
+    required_fields: "Verplichte velden"
+    added_to_cart: "Toegevoegd aan winkelwagen"
+    pdp:
+      checkout: "Afrekenen"
+      view_cart: "Naar winkelwagen"
+    plp:
+      price: "Prijs"
+      sort_by: "Sorteer op"
+      no_results: "Geen resultaten"
+      default: "Standaard"
+      newest_first: "Nieuwste eerst"
+      price_high_to_low: "Prijs van hoog naar laag"
+      price_low_to_high: "Prijs van laag naar hoog"
+      not_found_filters1: "We konden geen overkomst vinden voor deze filters."
+      not_found_filters2: "Probeer een andere keuze."
+    availability: "Beschikbaarheid"
+    in_stock: "Op voorraad"
+    add_to_cart: "In winkelwagen"
+    contact_us: "Contact opnemen"
+    follow_us: "Volgen"
+  activerecord:
+    attributes:
+      spree/product:
+        less_than: "Lager dan"
+  

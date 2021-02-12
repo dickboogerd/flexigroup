@@ -1,0 +1,70 @@
+default:
+  navigation:
+    - title: Vlonder
+      subtitle: 
+      url: /t/vlonder
+      items:
+        - :title: Vlonderplanken Hout
+          :url: /t/vlonder/vlonderplanken-hout
+        - :title: Vlonderplanken Composiet
+          :url: /t/vlonder/vlonderplanken-composiet
+        - :title: Vlonderplanken Kunststof
+          :url: /t/vlonderplanken/vlonderplanken-kunststof       
+      promo_banners:
+        - subtitle: 
+          title: 
+          url: /t/vlonder
+          image: 'meganav/009948.jpg'
+    - title: Verlichting
+      subtitle: 
+      url: /t/verlichting
+      items:
+        - :title: Spots
+          :url: /t/verlichting/spots
+        - :title: Wandverlichting
+          :url: /t/verlichting/wandverlichting
+        - :title: Staande verlichting
+          :url: /t/verlichting/staande-verlichting
+        - :title: Decklights
+          :url: /t/verlichting/decklights
+        - :title: Uplights
+          :url: /t/verlichting/uplights
+        - :title: Toebehoren
+          :url: /t/verlichting/toebehoren
+      promo_banners:
+        - subtitle: 
+          title: 
+          url: /t/verlichting
+          image: 'meganav/3154013.png'
+    - title: Inrichting
+      subtitle: 
+      url: /t/inrichting
+      items:
+        - :title: Plantenbakken
+          :url: /t/inrichting/plantenbakken
+        - :title: Waterelementen
+          :url: /t/inrichting/waterelementen
+        - :title: Verwarming
+          :url: /t/inrichting/verwarming
+        - :title: Meubulair
+          :url: /t/inrichting/meubulair
+      promo_banners:
+        - subtitle: 
+          title: 
+          url: /t/inrichting
+          image: 'meganav/3154013.png'
+    - title: Hek
+      subtitle: 
+      url: /t/hek
+      items:
+        - :title: Hekken hout
+          :url: /t/hek/hekken-hout
+        - :title: Hekken composiet
+          :url: /t/hek/hekken-composiet
+        - :title: Hekken kunststof
+          :url: /t/hek/hekken-kunststof     
+      promo_banners:
+        - subtitle: 
+          title: 
+          url: /t/hek
+          image: 'meganav/3154013.png'

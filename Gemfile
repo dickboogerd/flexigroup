@@ -28,10 +28,10 @@ gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
-gem 'spree', '~> 4.1'
-gem 'spree_auth_devise', '~> 4.2'
+gem 'spree', '~> 4.2.0.rc5'
+gem 'spree_auth_devise', '~> 4.3'
 gem 'spree_gateway', '~> 3.9'
-gem 'spree_i18n', github: 'spree-contrib/spree_i18n'
+gem 'spree_i18n', '~> 5.0'
 gem 'spree_mollie_gateway'
 # gem 'spree_multi_domain', github: 'spree-contrib/spree-multi-domain'
 
